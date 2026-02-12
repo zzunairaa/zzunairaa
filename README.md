@@ -1,18 +1,18 @@
 # Konnichiwa 👋
 
-I'm an AI Engineer focused on **NLP & TinyML**, and a Master's Student in AI (MSAI) @ University of Bologna.
+I'm an AI Engineer focused on **NLP, Computer Vision & TinyML**, and a Master's Student in AI (MSAI) @ University of Bologna.
 
 ## 👩🏻‍💻 About Me
 
-🎓 Master's Student in Artificial Intelligence  
-📍 Alma Mater Studiorum – University of Bologna, Italy  
-📄 Co-author of a Peer-Reviewed EVALITA NLP Paper  
-🧠 Specialized in **Natural Language Processing (NLP), TinyML, Quantized Deep Learning & Edge AI**  
-⚙️ Focused on efficient architectures, model compression, and explainable AI
+🎓 Master's Student in Artificial Intelligence
+📍 Alma Mater Studiorum – University of Bologna, Italy
+📄 Co-author of a Peer-Reviewed EVALITA NLP Paper
+🧠 Specialized in **NLP, Computer Vision, TinyML, Quantized Deep Learning & Edge AI**
+⚙️ Focused on **efficient architectures, model compression, AI explainability, and deployment-aware design**
 
-My work strongly emphasizes **NLP systems** — from **transformer-based modeling** to **evaluation-driven research** and **deployment-aware language pipelines**. I design AI models that are not only accurate, but **computationally efficient, interpretable, and optimized for real-world constraints**.
+My work strongly emphasizes **AI systems**  from **transformer-based NLP modeling**, **computer vision pipelines**, **evaluation-driven research**, **RAG implementations**, to **deployment-aware language and vision pipelines**. I design AI models that are not only accurate, but **computationally efficient, interpretable, quantization-ready, and optimized for real-world constraints**.
 
-I care about how models behave beyond benchmarks, including **memory usage, MACs, quantization impact, and edge deployment feasibility**.
+I care about how models behave beyond benchmarks, including **memory usage, MACs, quantization impact, edge deployment feasibility, and explainability of AI models**.
 
 **Fun Fact:** I love watching anime, eating ramen, and I'm a big Swiftie.
 
