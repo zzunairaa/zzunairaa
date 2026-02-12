@@ -16,9 +16,11 @@ I'm an AI Engineer focused on **NLP, Computer Vision & TinyML**, and a Master's 
 
 My work strongly emphasizes **AI systems**  from **transformer-based NLP modeling**, **computer vision pipelines**, **evaluation-driven research**, **RAG implementations**, to **deployment-aware language and vision pipelines**. I design AI models that are not only accurate, but **computationally efficient, interpretable, quantization-ready, and optimized for real-world constraints**.
 
+🤝 I’m looking to collaborate on NLP systems, TinyML & efficient AI projects, model quantization, and explainability improvements. I enjoy building AI pipelines that are not only accurate but also interpretable, memory and compute-efficient, and deployable in real-world settings.
+
 I care about how models behave beyond benchmarks, including **memory usage, MACs, quantization impact, edge deployment feasibility, and explainability of AI models**.
 
-**Fun Fact:** I love watching anime, eating ramen, and I'm a big Swiftie.
+**Fun Fact⚡:** I love watching anime, eating ramen, and I'm a big Swiftie.
 
 ---
 
