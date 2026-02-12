@@ -38,7 +38,6 @@ I care about how models behave beyond benchmarks, including **memory usage, MACs
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45"/> </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="45" height="45"/> </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/seaborn/%233776AB" alt="seaborn" width="45" height="45"/> </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jupyter" alt="jupyter" width="45" height="45"/> </a>
 </p>
 
 <p align="left">
@@ -46,7 +45,6 @@ I care about how models behave beyond benchmarks, including **memory usage, MACs
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="45" height="45"/> </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="45" height="45"/> </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="45" height="45"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="45" height="45"/> </a>
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="45" height="45"/> </a>
 </p>
 
