@@ -7,22 +7,15 @@ I'm an AI Engineer focused on **NLP, Computer Vision & TinyML**, and a Master's 
 <img align="right" height="200" src="https://github.com/user-attachments/assets/5edc4118-0532-4545-bf53-311ce502fcfd" />
 
 ## 👩🏻‍💻 About Me
+
 🎓 Master's Student in Artificial Intelligence
-
 📍 Alma Mater Studiorum – University of Bologna, Italy
-
 ✉️  You can contact me at zunairahasnain6@gmail.com
-
 📄 Co-author of a Peer-Reviewed EVALITA NLP Paper
-
 🧠 Specialized in **NLP, Computer Vision, TinyML, Quantized Deep Learning & Edge AI**
-
 ⚙️ Focused on **efficient architectures, model compression, AI explainability, and deployment-aware design**
-
 👩‍💼 My work strongly emphasizes **AI systems** from **transformer-based NLP modeling**, **computer vision pipelines**, **evaluation-driven research**, **RAG implementations**, to **deployment-aware language and vision pipelines**. I design AI models that are not only accurate, but **computationally efficient, interpretable, quantization-ready, and optimized for real-world constraints**.
-
 🤝 I’m looking to collaborate on NLP systems, TinyML & efficient AI projects, model quantization, and explainability improvements. I enjoy building AI pipelines that are not only accurate but also interpretable, memory and compute-efficient, and deployable in real-world settings.
-
 I care about how models behave beyond benchmarks, including **memory usage, MACs, quantization impact, edge deployment feasibility, and explainability of AI models**.
 
 **Fun Fact⚡:** I love watching anime, eating ramen, and I'm a big Swiftie.
