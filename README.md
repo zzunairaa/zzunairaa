@@ -26,29 +26,27 @@ I care about how models behave beyond benchmarks, including **memory usage, MACs
 
 ---
 
-### Languages and Tools:
-
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,tensorflow,huggingface,opencv,numpy,pandas,matplotlib,seaborn" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,tensorflow,huggingface,opencv,anaconda,numpy,pandas,matplotlib,seaborn" />
   </a>
 </p>
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,bootstrap,redux,webpack,babel,electron" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,redux,html,css,sass,bootstrap,webpack,babel" />
   </a>
 </p>
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,django,nestjs,graphql,java,spring,go,postgres,mongodb,mysql,redis,firebase" />
+    <img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,express,nestjs,prisma,postgres,mongodb,mysql,redis,graphql" />
   </a>
 </p>
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,heroku,linux,bash,nginx,jenkins,grafana,kafka,rabbitmq,jest,git,qt" />
+    <img src="https://skillicons.dev/icons?i=aws,docker,linux,bash,git,jenkins,nginx,grafana,kafka,rabbitmq,jest,qt" />
   </a>
 </p>
 
