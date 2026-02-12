@@ -5,12 +5,12 @@ I'm an AI Engineer focused on **NLP & TinyML**, and a Master's Student in AI (MS
 ## 👩🏻‍💻 About Me
 
 🎓 Master's Student in Artificial Intelligence  
-📍 Alma Mater Studiorum – University of Bologna, Italy  
+📍 Alma Mater Studiorum : University of Bologna, Italy  
 📄 Co-author of a Peer-Reviewed EVALITA NLP Paper  
 🧠 Specialized in **Natural Language Processing (NLP), TinyML, Quantized Deep Learning & Edge AI**  
 ⚙️ Focused on efficient architectures, model compression, and explainable AI
 
-My work strongly emphasizes **NLP systems** — from **transformer-based modeling** to **evaluation-driven research** and **deployment-aware language pipelines**. I design AI models that are not only accurate, but **computationally efficient, interpretable, and optimized for real-world constraints**.
+My work strongly emphasizes **NLP systems** — from **transformer based modeling** to **evaluation-driven research** and **deployment aware language pipelines**. I design AI models that are not only accurate, but **computationally efficient, interpretable, and optimized for real world constraints**.
 
 I care about how models behave beyond benchmarks, including **memory usage, MACs, quantization impact, and edge deployment feasibility**.
 
