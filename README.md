@@ -4,7 +4,7 @@ I'm an AI Engineer focused on **NLP, Computer Vision & TinyML**, and a Master's 
 
 ---
 ## 👩🏻‍💻 About Me
-<img align="right" height="200" src="https://github.com/user-attachments/assets/5edc4118-0532-4545-bf53-311ce502fcfd" />
+<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3B4Z3p6YXF4eGZ4eGZ4eGZ4eGZ4eGZ4eGZ4eGZ4eGZ4eGZ4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f86m00L1f6p56/giphy.gif" />
 
 🎓 Master's Student in Artificial Intelligence
 
