@@ -13,11 +13,11 @@ I'm an AI Engineer focused on **NLP, Computer Vision & TinyML**, and a Master's 
 
 ✉️  You can contact me at zunairahasnain6@gmail.com
 
-📄 Co-author of a Peer-Reviewed EVALITA NLP Paper
+📄 Co-author of a Peer-Reviewed EVALITA NLP Paper.
 
-🧠 Specialized in **NLP, Computer Vision, TinyML, Quantized Deep Learning & Edge AI**
+🧠 Specialized in **NLP, Computer Vision, TinyML, Quantized Deep Learning & Edge AI**.
 
-⚙️ Focused on **efficient architectures, model compression, AI explainability, and deployment-aware design**
+⚙️ Focused on **efficient architectures, model compression, AI explainability, and deployment-aware design**.
 
 👩‍💼 My work strongly emphasizes **AI systems** from **transformer-based NLP modeling**, **computer vision pipelines**, **evaluation-driven research**, **RAG implementations**, to **deployment-aware language and vision pipelines**. I design AI models that are not only accurate, but **computationally efficient, interpretable, quantization-ready, and optimized for real-world constraints**.
 
