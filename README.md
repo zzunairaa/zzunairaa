@@ -34,5 +34,4 @@ I care about how models behave beyond benchmarks, including **memory usage, MACs
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- <a href="http://www.github.com/your-github"><img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
-
-<a href="https://app.daily.dev/your-username" target="_blank"><img src="https://api.daily.dev/devcards/v2/f1lFCPNK2xK8OcI9xmONK.png?type=wide&r=1ho" width="652" alt="Zunaira's Dev Card"/></a>
+<a href="https://app.daily.dev/zzizou" target="_blank"><img src="https://api.daily.dev/devcards/v2/zzizou.png?type=wide&r=1ho" width="652" alt="Zunaira's Dev Card"/></a>
