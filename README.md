@@ -46,3 +46,12 @@ I care about how models behave beyond benchmarks, including **memory usage, MACs
     <img src="https://api.daily.dev/devcards/v2/smu4Lriz8PuxbV6LY80VR.png?type=wide&r=6ym" width="652" alt="Zunaira's Dev Card"/>
   </a>
 </p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=zzunairaa&theme=dark&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" alt="Zunaira's Stats" height="180" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzunairaa&theme=dark&layout=compact&hide_border=false" alt="Top Languages" height="180" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zzunairaa&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
