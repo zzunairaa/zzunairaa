@@ -8,6 +8,8 @@ I'm an AI Engineer focused on **NLP, Computer Vision & TinyML**, and a Master's 
 
 📍 Alma Mater Studiorum – University of Bologna, Italy
 
+✉️  You can contact me at zunairahasnain6@gmail.com
+
 📄 Co-author of a Peer-Reviewed EVALITA NLP Paper
 
 🧠 Specialized in **NLP, Computer Vision, TinyML, Quantized Deep Learning & Edge AI**
