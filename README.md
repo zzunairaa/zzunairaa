@@ -30,12 +30,18 @@ I care about how models behave beyond benchmarks, including **memory usage, MACs
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="45" height="45"/> </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="45" height="45"/> </a>
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface/%23FFD21E" alt="huggingface" width="45" height="45"/> </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sklearn" alt="scikit_learn" width="45" height="45"/> </a>
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="45" height="45"/> </a>
-  <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface/%23FFD21E" alt="huggingface" width="45" height="45"/> </a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="45" height="45"/> </a>
+</p>
+
+<p align="left">
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/> </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45"/> </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="45" height="45"/> </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/seaborn/%233776AB" alt="seaborn" width="45" height="45"/> </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jupyter" alt="jupyter" width="45" height="45"/> </a>
 </p>
 
 <p align="left">
