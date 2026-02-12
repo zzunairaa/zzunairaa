@@ -1,7 +1,8 @@
 # Konnichiwa 👋
-<img align="right" height="200" src="https://github.com/user-attachments/assets/5edc4118-0532-4545-bf53-311ce502fcfd"  />
----
+
  I'm an AI Engineer focused on **NLP, Computer Vision & TinyML**, and a Master's Student in AI (MSAI) @ University of Bologna.
+
+---
 
 ## 👩🏻‍💻 About Me
 
