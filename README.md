@@ -3,8 +3,10 @@
 I'm an AI Engineer focused on **NLP, Computer Vision & TinyML**, and a Master's Student in AI (MSAI) @ University of Bologna.
 
 ---
+
 ## 👩🏻‍💻 About Me
-<img align="right" height="200" src="[https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZGlsZDY2a3Q5ajVwaGh6aHpuOWg4YzgwNHZtdnlpYzBpcWxvdnZtdSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/WkeXjFoubG449UdbGh/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZkdzF6N3JxMHBqcjAxMHhueGl0ZWQ2bTFldmlmM2N2MTB5MDNyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EuCHgBO2sraOk/giphy.gif)" />
+
+<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZkdzF6N3JxMHBqcjAxMHhueGl0ZWQ2bTFldmlmM2N2MTB5MDNyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EuCHgBO2sraOk/giphy.gif" />
 
 🎓 Master's Student in Artificial Intelligence
 
