@@ -1,12 +1,10 @@
 # Konnichiwa 👋
 
- I'm an AI Engineer focused on **NLP, Computer Vision & TinyML**, and a Master's Student in AI (MSAI) @ University of Bologna.
+I'm an AI Engineer focused on **NLP, Computer Vision & TinyML**, and a Master's Student in AI (MSAI) @ University of Bologna.
 
 ---
 
 <img align="right" height="200" src="https://github.com/user-attachments/assets/5edc4118-0532-4545-bf53-311ce502fcfd" />
-
-
 
 ## 👩🏻‍💻 About Me
 
@@ -22,7 +20,7 @@
 
 ⚙️ Focused on **efficient architectures, model compression, AI explainability, and deployment-aware design**
 
-👩‍💼 My work strongly emphasizes **AI systems**  from **transformer-based NLP modeling**, **computer vision pipelines**, **evaluation-driven research**, **RAG implementations**, to **deployment-aware language and vision pipelines**. I design AI models that are not only accurate, but **computationally efficient, interpretable, quantization-ready, and optimized for real-world constraints**.
+👩‍💼 My work strongly emphasizes **AI systems** from **transformer-based NLP modeling**, **computer vision pipelines**, **evaluation-driven research**, **RAG implementations**, to **deployment-aware language and vision pipelines**. I design AI models that are not only accurate, but **computationally efficient, interpretable, quantization-ready, and optimized for real-world constraints**.
 
 🤝 I’m looking to collaborate on NLP systems, TinyML & efficient AI projects, model quantization, and explainability improvements. I enjoy building AI pipelines that are not only accurate but also interpretable, memory and compute-efficient, and deployable in real-world settings.
 
