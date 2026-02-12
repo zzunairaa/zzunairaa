@@ -5,9 +5,13 @@ I'm an AI Engineer focused on **NLP, Computer Vision & TinyML**, and a Master's 
 ## 👩🏻‍💻 About Me
 
 🎓 Master's Student in Artificial Intelligence
+
 📍 Alma Mater Studiorum – University of Bologna, Italy
+
 📄 Co-author of a Peer-Reviewed EVALITA NLP Paper
+
 🧠 Specialized in **NLP, Computer Vision, TinyML, Quantized Deep Learning & Edge AI**
+
 ⚙️ Focused on **efficient architectures, model compression, AI explainability, and deployment-aware design**
 
 My work strongly emphasizes **AI systems**  from **transformer-based NLP modeling**, **computer vision pipelines**, **evaluation-driven research**, **RAG implementations**, to **deployment-aware language and vision pipelines**. I design AI models that are not only accurate, but **computationally efficient, interpretable, quantization-ready, and optimized for real-world constraints**.
