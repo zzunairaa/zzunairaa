@@ -38,7 +38,7 @@ I care about how models behave beyond benchmarks, including **memory usage, MACs
 </p>
 
 <p align="left">
-  <a href="https://app.daily.dev/zzunairaa">
+  <a href="[https://app.daily.dev/zzunairaa](https://app.daily.dev/zzizou)">
     <img src="https://api.daily.dev/devcards/v2/smu4Lriz8PuxbV6LY80VR.png?type=wide&r=6ym" width="652" alt="Zunaira's Dev Card"/>
   </a>
 </p>
