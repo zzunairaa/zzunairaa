@@ -39,6 +39,6 @@ I care about how models behave beyond benchmarks, including **memory usage, MACs
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zzunairaa&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
-<a href="https://app.daily.dev/zzizou"><img src="https://api.daily.dev/devcards/v2/smu4Lriz8PuxbV6LY80VR.png?type=wide&r=ugv" width="652" alt="zizou's Dev Card"/></a>
+<a href="https://app.daily.dev/zzizou"><img src="https://api.daily.dev/devcards/v2/smu4Lriz8PuxbV6LY80VR.png?type=wide&r=iar" width="652" alt="zizou's Dev Card"/></a>
 
 
