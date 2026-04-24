@@ -29,65 +29,36 @@ I care about how models behave beyond benchmarks, including **memory usage, MACs
 **Fun Fact⚡:** I love watching anime, eating ramen, and I'm a big Swiftie.
 
 ---
-### Languages and Tools:
+---
 
+## Tech Stack
+
+*AI / ML*  
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=babel" alt="babel" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" alt="bulma" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="css" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=electron" alt="electron" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=grafana" alt="grafana" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=heroku" alt="heroku" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=html" alt="html" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=kafka" alt="kafka" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="materialui" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=qt" alt="qt" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=rabbitmq" alt="rabbitmq" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit-learn" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=webpack" alt="webpack" width="40" height="40"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikitlearn&perline=10" />
+  </a>
+  <img src="https://cdn.simpleicons.org/huggingface" width="48"/>
+  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48"/>
 </p>
 
+*Frontend*  
+[![](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,redux,sass&perline=10)](https://skillicons.dev)
+
+*Backend*  
+[![](https://skillicons.dev/icons?i=fastapi,nodejs,nestjs,django,flask,express,go,graphql&perline=10)](https://skillicons.dev)
+
+*Databases & Messaging*  
+[![](https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,kafka,rabbitmq&perline=10)](https://skillicons.dev)
+
+*DevOps & Cloud*  
+[![](https://skillicons.dev/icons?i=aws,docker,git,linux,nginx,firebase,jenkins,grafana,heroku&perline=10)](https://skillicons.dev)
+
+---
 
 ###
 <p align="left">
