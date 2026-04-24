@@ -29,7 +29,7 @@ I care about how models behave beyond benchmarks, including **memory usage, MACs
 **Fun Fact⚡:** I love watching anime, eating ramen, and I'm a big Swiftie.
 
 ---
----
+
 
 ## Tech Stack
 
@@ -46,16 +46,16 @@ I care about how models behave beyond benchmarks, including **memory usage, MACs
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48"/>
 </p>
 
-*Frontend*  
+## Frontend
 [![](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,redux,sass&perline=10)](https://skillicons.dev)
 
-*Backend*  
+## Backend 
 [![](https://skillicons.dev/icons?i=fastapi,nodejs,nestjs,django,flask,express,go,graphql&perline=10)](https://skillicons.dev)
 
-*Databases & Messaging*  
+## Databases & Messaging  
 [![](https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,kafka,rabbitmq&perline=10)](https://skillicons.dev)
 
-*DevOps & Cloud*  
+## DevOps & Cloud
 [![](https://skillicons.dev/icons?i=aws,docker,git,linux,nginx,firebase,jenkins,grafana,heroku&perline=10)](https://skillicons.dev)
 
 ---
