@@ -33,7 +33,7 @@ I care about how models behave beyond benchmarks, including **memory usage, MACs
 
 ## Tech Stack
 
-**AI / ML**
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikitlearn&perline=10" />
@@ -46,16 +46,14 @@ I care about how models behave beyond benchmarks, including **memory usage, MACs
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48"/>
 </p>
 
-**Frontend**
+
 [![](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,redux,sass&perline=10)](https://skillicons.dev)
 
-**Backend** 
-[![](https://skillicons.dev/icons?i=fastapi,nodejs,nestjs,django,flask,express,go,graphql&perline=10)](https://skillicons.dev)
 
-**Databases & Messaging**  
+[![](https://skillicons.dev/icons?i=fastapi,nodejs,nestjs,django,flask,express,go,graphql&perline=10)](https://skillicons.dev)
+  
 [![](https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,kafka,rabbitmq&perline=10)](https://skillicons.dev)
 
-**DevOps & Cloud**
 [![](https://skillicons.dev/icons?i=aws,docker,git,linux,nginx,firebase,jenkins,grafana,heroku&perline=10)](https://skillicons.dev)
 
 ---
